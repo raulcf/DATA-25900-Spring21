@@ -6,6 +6,8 @@ This course takes a technical approach to exploring societal issues of ethics, f
 
 **Instructor:** [Raul Castro Fernandez](https://raulcastrofernandez.com) (raulcf@uchicago.edu)
 
+**Teaching Assistant (TA):** [Zhiru Zhu] (zhiru@uchicago.edu)
+
 **Lectures:** Tuesday and Thursday 2:40pm–4:00pm (Central Time)
 
 **Prerequisites:** CMSC 11900
