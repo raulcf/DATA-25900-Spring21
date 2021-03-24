@@ -2,13 +2,19 @@
 
 Please, check out this schedule frequently as it will likely change a bit throughout the quarter.
 
+Legend:
+- PA stands for Programming Assignment
+- IP stands for Individual Project
+- SR stands for Issue Report
+- R stands for reading assignment
+
 
 | #Lecture |  Date |  Lecture |  Keywords  |  Readings | Important Dates |
 |:----:|:----:|:----:|:------:|:----:|:----:|
-| 1 | 03/30 | Course Overview. Introduction to the process of Data Science |  introduction, descriptive statistics, inferential statistics |   |  |
+| 1 | 03/30 | Course Overview. Introduction to the process of Data Science |  introduction, descriptive statistics, inferential statistics |   | *IP Proposal assigned* *SR assigned* |
 | 2 | 04/01 | Data: Context and Quality | collection, preparation, cleaning, missing data |  |  |
 | 3 | 04/06 | Pitfalls in Inferential Statistics | Multiple hypothesis, Bonferroni correction, false discovery rate, statistical vs practical significance |  | *PA1 assigned* |
-| 4 | 04/08 | The design of experiments and protection of human subjects | human subjects, experimental design, AB testing |  | *Individual Project Proposal due*  |
+| 4 | 04/08 | The design of experiments and protection of human subjects | human subjects, experimental design, AB testing |  | *IP Proposal due*  |
 | 5 | 04/13 | More experimental design. Causality | experiments, causality, observational vs experimental data |  | *PA2 assigned* |
 | 6 | 04/15 | Causation vs Correlation. Causal Inference | pitfalls in communicating results, introduction to causal inference, quasi-experiments |  | |
 | 7 | 04/20 | Introduction to Machine Learning | optimization vs generalization, training and test data, models, learning | | |
@@ -20,7 +26,7 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 13 | 05/11 | Statistical Data Privacy | differential privacy, sensitivity |  | *PA5 assigned* |
 | 14 | 05/13 | Data Lifecycles | provenance, right to be forgotten, data portability |  | *PA4 due* |
 | 15 | 05/18 | Economics of Data and Externalities 1 | data ownership, value of data, data markets, markets for privacy, data brokers |  | |
-| 16 | 05/20 | Economics of Data and Externalities 2. Other topics | data unions, cooperatives, strikes |  | *Final report of individual project due* |
+| 16 | 05/20 | Economics of Data and Externalities 2. Other topics | data unions, cooperatives, strikes |  | *IP due* |
 | 17 | 05/25 | Project Presentation 1 |  |  | *PA5 due* | 
-| 18 | 05/27 | Project Presentation 2 |  |  | *Final 'issue' report due* |
+| 18 | 05/27 | Project Presentation 2 |  |  | *SR due* |
 
