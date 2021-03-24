@@ -9,7 +9,7 @@ Please, check out this schedule frequently as it will likely change a bit throug
 | 2 | 04/01 | Data: Context and Quality | collection, preparation, cleaning, missing data |  |  |
 | 3 | 04/06 | Pitfalls in Inferential Statistics | Multiple hypothesis, Bonferroni correction, false discovery rate, statistical vs practical significance |  | *PA1 assigned* |
 | 4 | 04/08 | The design of experiments and protection of human subjects | human subjects, experimental design, AB testing |  | *Individual Project Proposal due*  |
-| 5 | 04/13 | More experimental design. Causality | experiments, causality, observational vs experimental data | *PA2 assigned* |
+| 5 | 04/13 | More experimental design. Causality | experiments, causality, observational vs experimental data |  | *PA2 assigned* |
 | 6 | 04/15 | Causation vs Correlation. Causal Inference | pitfalls in communicating results, introduction to causal inference, quasi-experiments |  | |
 | 7 | 04/20 | Introduction to Machine Learning | optimization vs generalization, training and test data, models, learning | | |
 | 8 | 04/22 | Machine Learning in the Wild | training data, feature engineering, information leakage, concept drift, algorithmic decision making | | *PA3 assigned* *PA1 due* |
