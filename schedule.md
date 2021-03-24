@@ -13,12 +13,12 @@ Legend:
 |:----:|:----:|:----:|:------:|:----:|:----:|
 | 1 | 03/30 | Course Overview. Introduction to the process of Data Science |  introduction, descriptive statistics, inferential statistics |   | *IP Proposal assigned* *SR assigned* |
 | 2 | 04/01 | Data: Context and Quality | collection, preparation, cleaning, missing data |  |  |
-| 3 | 04/06 | Pitfalls in Inferential Statistics | Multiple hypothesis, Bonferroni correction, false discovery rate, statistical vs practical significance |  | *PA1 assigned* |
-| 4 | 04/08 | The design of experiments and protection of human subjects | human subjects, experimental design, AB testing |  | *IP Proposal due*  |
+| 3 | 04/06 | Pitfalls in Inferential Statistics | Multiple hypothesis, Bonferroni correction, false discovery rate, statistical vs practical significance |  | *PA1 assigned* *IP Proposal due* |
+| 4 | 04/08 | The design of experiments and protection of human subjects | human subjects, experimental design, AB testing |  |   |
 | 5 | 04/13 | More experimental design. Causality | experiments, causality, observational vs experimental data |  | *PA2 assigned* |
 | 6 | 04/15 | Causation vs Correlation. Causal Inference | pitfalls in communicating results, introduction to causal inference, quasi-experiments |  | |
-| 7 | 04/20 | Introduction to Machine Learning | optimization vs generalization, training and test data, models, learning | | |
-| 8 | 04/22 | Machine Learning in the Wild | training data, feature engineering, information leakage, concept drift, algorithmic decision making | | *PA3 assigned* *PA1 due* |
+| 7 | 04/20 | Introduction to Machine Learning | optimization vs generalization, training and test data, models, learning | | *PA1 due* |
+| 8 | 04/22 | Machine Learning in the Wild | training data, feature engineering, information leakage, concept drift, algorithmic decision making | | *PA3 assigned*  |
 | 9 | 04/27 | Fairness in Machine Learning | fairness definitions |  | *PA2 due* |
 | 10 | 04/29 | Visualization and Communication | packaging data products, reproducibility, repeatibility, visualization, communication |  | *PA4 assigned* |
 | 11 | 05/04 | Philosophy of Privacy | privacy definitions, law, technology  |  | |
