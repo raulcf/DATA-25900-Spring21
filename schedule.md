@@ -28,5 +28,5 @@ Legend:
 | 15 | 05/18 | Economics of Data and Externalities 1 | data ownership, value of data, data markets, markets for privacy, data brokers |  | |
 | 16 | 05/20 | Economics of Data and Externalities 2. Other topics | data unions, cooperatives, strikes |  | *IP due* |
 | 17 | 05/25 | Project Presentation 1 |  |  | *PA5 due* | 
-| 18 | 05/27 | Project Presentation 2 |  |  | *SR due* |
+| 18 | 05/27 | Project Presentation 2 |  |  | *SR due* *PA Quiz (24 hour window opens)* |
 
