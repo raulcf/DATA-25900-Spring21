@@ -18,6 +18,8 @@ This course takes a technical approach to exploring societal issues of ethics, f
 
 **Zoom:** The Zoom link we will use for the class is available through the Canvas site indicated above.
 
+**Offline discussion:** We will use [Campuswire](https://campuswire.com/c/GF98AE2F7/feed) for offline discussion. You can think of Campuswire as Piazza or Ed. If you need to discuss a private matter then send me an email instead.
+ 
 ### Schedule
 
 The schedule [is available here](schedule.md).
