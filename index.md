@@ -6,7 +6,7 @@ This course takes a technical approach to exploring societal issues of ethics, f
 
 **Instructor:** [Raul Castro Fernandez](https://raulcastrofernandez.com) (raulcf@uchicago.edu)
 
-**Teaching Assistant (TA):** [Zhiru Zhu] (zhiru@uchicago.edu)
+**Teaching Assistant (TA):** Zhiru Zhu (zhiru@uchicago.edu)
 
 **Lectures:** Tuesday and Thursday 2:40pm–4:00pm (Central Time)
 
@@ -28,7 +28,7 @@ The schedule includes lecture topics, readings, as well as the dates where all a
 
 ### Grading
 
-- **Programming Assignments (4 in total. 7% each. Total 28%).** The programming assignments are an important component of your grade. You can find the tentative release dates in the schedule. You can work on these assignments in pairs.
+- **Programming Assignments (4 in total. 7% each. Total 28%).** The programming assignments are an important component of your grade. You can find the tentative release dates in the schedule. You can work on these assignments in pairs and you need to indicate how did you collaborate on each of the assignments.
 - **Programming Assignments Quiz (5%)** A quiz towards the end of the quarter with questions about the programming assignments. This will be easy if you've done the work on the programming assignments throughout the quarter.
 - **Reading Responses (6 in total. 2% each. Total 12%)** We will assign readings each week. At the end of the week we will ask a question about the readings and ask you to provide a brief answer.
 - **Individual Project (40%)** A big component of your grade. You will engage in a quarter-long individual project. You will deliver a short report and present your work to the class during the two final sessions.
