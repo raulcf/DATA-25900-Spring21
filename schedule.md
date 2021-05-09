@@ -23,8 +23,8 @@ Legend:
 | 10 | 04/29 | Visualization and Communication | packaging data products, reproducibility, repeatibility, visualization, communication |  | *PA3 assigned* |
 | 11 | 05/04 | Philosophy of Privacy | privacy definitions, law, technology  | ***Reading 5.1***: Daniel Solove. ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565). *San Diego Law Review* 44, 2007. ***Reading 5.2***: Arvind Narayanan and Vitaly Shmatikov. [Robust De-anonymization of Large Sparse Datasets](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf). In *Proc. IEEE Symposium on Security and Privacy*, 2008. | *R4 due* |
 | 12 | 05/06 | Anonymity | deanonymization |  | *PA2 due* | 
-| 13 | 05/11 | Statistical Data Privacy | differential privacy, sensitivity |  | *PA4 assigned* *R5 due* |
-| 14 | 05/13 | Data Lifecycles | provenance, right to be forgotten, data portability |  | *PA3 due* |
+| 13 | 05/11 | Statistical Data Privacy | differential privacy, sensitivity |  | *R5 due* |
+| 14 | 05/13 | Data Lifecycles | provenance, right to be forgotten, data portability |  | *PA4 assigned* *PA3 due* |
 | 15 | 05/18 | Economics of Data and Externalities 1 | data ownership, value of data, data markets, markets for privacy, data brokers | ***Reading 6:*** [Economic properties of data and the monopolistic tendencies of data economy: policies to limit an Orwellian possibility](https://www.un.org/development/desa/publications/working-paper/wp164). 17 May 2020 by Hoi Wai Jackie Cheng ST/ESA/2020/DWP/164 | |
 | 16 | 05/20 | Economics of Data and Externalities 2. Other topics | data unions, cooperatives, strikes |  | *IP due* |
 | 17 | 05/25 | Project Presentation 1 |  |  | *PA4 due* *R6 due* | 
